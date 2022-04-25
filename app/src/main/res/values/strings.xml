@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CashReg</string>
+    <string name="title">titleid</string>
+    <string name="textcashregister"> My Cash Register 💵 </string>
+    <string name="product_type">Product Type</string>
+    <string name="textviewamount">TextView</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="button0">0</string>
+    <string name="buttonC">C</string>
+    <string name="buttonBuy">BUY</string>
+    <string name="textQuantity">TextView</string>
+    <string name="producttextrow">productname</string>
+    <string name="pricetextrow">Price</string>
+    <string name="textqnty">Quantity</string>
+    <string name="quantity">Quantity</string>
+    <string name="productname">Productname</string>
+</resources>
